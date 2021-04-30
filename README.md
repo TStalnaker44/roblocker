@@ -52,7 +52,7 @@ Monday,8:00,9:00
 Friday,14:30,15:00
 ```
 
-The above will give users access to Roblox only on Monday between 8 and 9 AM and on Friday between 2:30 and 3 PM.  Note that times are provided in the 24 hour format.
+The above will give users access to Roblox only on Monday between 8:00 and 9:00 AM and on Friday between 2:30 and 3:00 PM.  Note that times are provided in the 24 hour format.
 
 ## Configuring Roblocker to Run at Startup
 * Create a .bat file like the following:

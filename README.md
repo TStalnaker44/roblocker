@@ -49,7 +49,7 @@ The process will end and the user will be able to start Roblox normally.
 start "" C:\Users\%USERPROFILE%\<path to roblocker file>\roblocker.exe
 ```
 
-* Replace <path to roblocker file> with the path on the targeted machine.
+* Replace &lt;path to roblocker file&gt; with the path on the targeted machine.
     
 * Hit Windows Key + R to open the run dialog
 * Type 'shell:startup' and hit enter

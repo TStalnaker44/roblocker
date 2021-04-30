@@ -42,6 +42,18 @@ taskkill /im roblocker.exe /F
 
 The process will end and the user will be able to start Roblox normally.
 
+## Exempting Times
+There may be times when you want your students or other computer users to have access to Roblox.  You can whitelist specific times in the time_exemptions.csv file.  The first row denotes the day of the week, the second the start time of the exemption, and the third the end time of the exemption.
+
+Example:
+
+```csv
+Monday,8:00,9:00
+Friday,14:30,15:00
+```
+
+The above will give users access to Roblox only on Monday between 8 and 9 AM and on Friday between 2:30 and 3 PM.  Note that times are provided in the 24 hour format.
+
 ## Configuring Roblocker to Run at Startup
 * Create a .bat file like the following:
 

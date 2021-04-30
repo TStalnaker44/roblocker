@@ -51,14 +51,14 @@ start "" C:\Users\%USERPROFILE%\<path to roblocker file>\roblocker.exe
 
 * Replace &lt;path to roblocker file&gt; with the path on the targeted machine.
     
-* Hit Windows Key + R to open the run dialog
-* Type 'shell:startup' and hit enter
-* Drag your newly created .bat file into the opened directory
+* Hit Windows Key + R to open the run dialog.
+* Type 'shell:startup' and hit enter.
+* Drag your newly created .bat file into the opened directory.
 
-Note - with admin privileges you can set Roblocker to run during the startup process of all users.  To achieve this type 'shell:common startup' into the run dialog instead
+Note - with admin privileges you can set Roblocker to run during the startup process of all users.  To achieve this type 'shell:common startup' into the run dialog instead.
 
 ## Disclaimer
-The authors of this repository are not responsible for any issues or problems that arise while using Roblocker
+The authors of this repository are not responsible for any issues or problems that arise while using Roblocker.
  
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
